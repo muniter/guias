@@ -53,4 +53,4 @@ Recuerde:
  - Incluir el significado de una fila (no es copia del diccionario de datos)
  - Terminar la actividad con una conclusión orientada a las personas de negocio 
  - Incluir la lista de preguntas o aclaraciones para la organización, problemas de calidad y alternativas para la limpieza.
- - Hacer la entrega en un notebook donde incluya únicamente los elementos solicitados en la tarea.
+ - La entrega corresponde a la URL de tu Wiki, asociada al notebook donde incluyes únicamente los elementos solicitados en esta tarea.
