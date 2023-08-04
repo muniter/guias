@@ -35,5 +35,5 @@ En el ejemplo previo, vemos como es de importante tender claridad del rol que us
 3. La alineación entre el hallazgo y las funciones de ese rol, los objetivos de Wide World Importers o del área a la que pertenece el rol. Si lo consideras necesario puedes extender el caso para darle sentido, tal como se hizo en el ejemplo.
 4. Dos acciones/decisiones posibles que el rol puede tomar usando el hallazgo sobre el tablero de control.
 
-Reflexiona sobre lo difícil que fue realizar esta actividad de forma posterior a la construcción del tablero de control y tenlo presente en el momento de crear el tablero de la tarea de la semana.
+Reflexiona sobre lo difícil que fue realizar esta actividad de forma posterior a la construcción del tablero de control. Al nivel del proyecto, esta será una de las actividades iniciales.
 
